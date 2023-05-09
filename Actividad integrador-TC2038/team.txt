@@ -1,0 +1,7 @@
+Julian Lawrence Gil Soares - A00832272
+- Lectura de archivos
+- Parte 2 (Palindromos)
+
+José Andrés Lozano Alanís - A01284569
+- Parte 1 (KMP)
+- Parte 3 (Longest Common Substring)
